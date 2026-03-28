@@ -1,0 +1,5 @@
+torch==2.5.1+cu121
+numpy
+datasets
+tqdm
+matplotlib

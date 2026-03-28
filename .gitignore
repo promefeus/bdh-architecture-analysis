@@ -1,0 +1,35 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Virtual Environment ----
+venv/
+.env/
+.env.*
+
+# ---- Dataset / Data ----
+data/input.bin
+data/*.txt
+data/*.csv
+
+# ---- Results / Logs / Plots ----
+results/
+*.log
+*.jsonl
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Misc ----
+*.zip
+*.tar.gz
